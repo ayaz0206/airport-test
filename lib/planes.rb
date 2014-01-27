@@ -1,7 +1,7 @@
 class Plane
 
 	def land?
-		true
+		true 
 	end
 	
 	def takeoff?
